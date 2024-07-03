@@ -1,9 +1,9 @@
 {
   "name": "shade",
-  "displayName": "JellyFish Theme",
-  "description": "shade: Theme your code editor will love.",
-  "version": "0.0.4",
-  "publisher": "PawelBorkar",
+  "displayName": "Shade Theme",
+  "description": "Shade: Theme your code editor will love.",
+  "version": "0.0.4.1",
+  "publisher": "sh20raj",
   "license": "Apache-2.0 License",
   "author": {
     "name": "sh20raj"

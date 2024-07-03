@@ -1,19 +1,8 @@
 {
 	"name": "shade Theme",
 	"type": "dark",
-	"author": "sh20raj",     //  (https://github.com/PawelBorkar)  		
+	"author": "sh20raj",   
 	"colors": {
-		
-		/*************************  I ❤ OpenSource  *************************/
-
-		/*************************
-		@Author: sh20raj 
-		@Repository:  (https://github.com/SH20RAJ/shade-vscode-theme)
-		@License: Apache-2.0 License
-		@Since: May 30, 2021 - present
-        *************************/
-
-		/*************************  EDITOR  *************************/
 		"editor.background": "#00002c",
 		"editor.foreground": "#ffffff",
 		"editorCursor.foreground": "#00f7ff",
