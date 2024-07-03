@@ -1,79 +1,63 @@
-<div align="center">
+# Shade Theme for VS Code
 
-# JellyFish
+[![Version](https://vsmarketplacebadge.apphb.com/version/sh20raj.shade.svg)](https://marketplace.visualstudio.com/items?itemName=sh20raj.shade)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/sh20raj.shade.svg)](https://marketplace.visualstudio.com/items?itemName=sh20raj.shade)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating/sh20raj.shade.svg)](https://marketplace.visualstudio.com/items?itemName=sh20raj.shade)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Dsh20raj.shade&labelColor=%232ccce4&countColor=%23ba68c8)](https://visitorbadge.io/status?path=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Dsh20raj.shade)
 
-<img src="https://raw.githubusercontent.com/pawelborkar/vscode-JellyFish/star/assets/jellyfish.png" height="190px" width="190px" style="border-radius:50%;">
+## Introduction
 
-<br>
-<br>
+**Shade Theme** is a modern, dark theme for Visual Studio Code with a sophisticated shadow aesthetic. Designed to reduce eye strain and enhance code readability, it offers a unique blend of vibrant colors and subtle contrasts. 
 
-> _Theme your code editor will love_
+## Features
 
-<br>
+- Dark background to reduce eye strain
+- High contrast for better readability
+- Vibrant colors for syntax highlighting
+- Supports a wide range of languages and file types
 
-### Wanna give a token of Thanks and Support Me?
+## Installation
 
-<a href="https://www.buymeacoffee.com/borkar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+### From Visual Studio Code Marketplace
 
-</div>
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Shade Theme`
+3. Click **Install** to install it
+4. Click **Reload** to reload your editor
+5. Navigate to **File > Preferences > Color Theme** and select `Shade Theme`
 
-<br>
+### From GitHub
 
-![JellyFish](https://img.shields.io/badge/Theme-JellyFish-%23ff0055)
-![GitHub](https://img.shields.io/github/license/pawelborkar/vscode-JellyFish?color=%23ff0055&label=License&logo=License&style=flat)
-![Message](https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%23ff0055)
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/pawelborkar.jellyfish?color=%23ff0055&label=Latest&logo=Latest&logoColor=%23ff0055)
+1. Download the latest [Shade Theme release](https://github.com/SH20RAJ/shade-vscode-theme/releases).
+2. Open the Extensions sidebar in VS Code.
+3. Click the `...` button at the top-right corner of the Extensions pane and select `Install from VSIX...`.
+4. Select the downloaded `.vsix` file.
+
+## Preview
+
+![Shade Theme Preview](https://user-images.githubusercontent.com/your-image.png)
+
+## Feedback
+
+If you have any feedback or suggestions for improvements, feel free to open an [issue](https://github.com/SH20RAJ/shade-vscode-theme/issues) or submit a pull request.
+
+
+## Contribution
+
+If you encounter any issues or have suggestions for improvements, feel free to open an [issue](https://github.com/SH20RAJ/shade-vscode-theme/issues) or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Credits
+
+Created by [SH20RAJ](https://github.com/SH20RAJ).
+
+## Support
+
+If you like this theme, please consider giving it a ⭐️ on [GitHub](https://github.com/SH20RAJ/shade-vscode-theme) and a positive review on the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/manage/publishers/sh20raj/extensions/shade/hub?_a=acquisition).
 
 ---
 
-<br>
-
-<br>
-
-![Preview](https://raw.githubusercontent.com/pawelborkar/vscode-JellyFish/star/assets/Preview1.PNG)
-
-<br>
-
-![Preview](https://raw.githubusercontent.com/pawelborkar/vscode-JellyFish/star/assets/Preview2.PNG)
-
-<br>
-
-![Preview](https://raw.githubusercontent.com/pawelborkar/vscode-JellyFish/star/assets/Preview3.PNG)
-
-<br>
-
-![Preview](https://raw.githubusercontent.com/pawelborkar/vscode-JellyFish/star/assets/Preview4.PNG)
-
-<br>
-
-![Preview](https://raw.githubusercontent.com/pawelborkar/vscode-JellyFish/star/assets/Preview5.PNG)
-
-<br>
-
----
-
-<br>
-</div>
-
-# Installation
-
-1. Open _Extensions_ from the Activity Bar in VS Code. `View → Extensions`
-2. Search for `JellyFish`, choose "JellyFish Theme" by _sh20raj_
-3. Click _Install_
-4. Navigate to File > Preferences > Color Theme >`JellyFish`
-
-<br>
-
-## Author
-
-[sh20raj](https://github.com/pawelborkar)
-
-<br>
-
-# License
-
-[Apache-2.0 License](LICENSE)
-
-<br>
-
-_Copyright (c) 2022 sh20raj_
+Enjoy using **Shade Theme**! Happy coding!

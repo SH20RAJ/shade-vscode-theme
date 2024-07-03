@@ -4,7 +4,7 @@
   "description": "Shade: Theme your code editor will love.",
   "version": "0.0.4.1",
   "publisher": "sh20raj",
-  "license": "Apache-2.0 License",
+  "license": "MIT",
   "author": {
     "name": "sh20raj"
   },
@@ -15,13 +15,13 @@
     "Themes",
     "Other"
   ],
-  "icon": "assets/shade.png",
+  "icon": "assets/logo.png",
   "contributes": {
     "themes": [
       {
         "label": "shade",
         "uiTheme": "vs-dark",
-        "path": "./themes/JellyFish Theme-color-theme.json"
+        "path": "./themes/Shade Theme.json"
       }
     ]
   },
