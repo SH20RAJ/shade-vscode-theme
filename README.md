@@ -1,9 +1,13 @@
 # Shade Theme for VS Code
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/sh20raj.shade.svg)](https://marketplace.visualstudio.com/items?itemName=sh20raj.shade)
+<!-- [![Version](https://vsmarketplacebadge.apphb.com/version/sh20raj.shade.svg)](https://marketplace.visualstudio.com/items?itemName=sh20raj.shade)
 [![Downloads](https://vsmarketplacebadge.apphb.com/downloads/sh20raj.shade.svg)](https://marketplace.visualstudio.com/items?itemName=sh20raj.shade)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating/sh20raj.shade.svg)](https://marketplace.visualstudio.com/items?itemName=sh20raj.shade)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating/sh20raj.shade.svg)](https://marketplace.visualstudio.com/items?itemName=sh20raj.shade) -->
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Dsh20raj.shade&labelColor=%232ccce4&countColor=%23ba68c8)](https://visitorbadge.io/status?path=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Dsh20raj.shade)
+
+
+![Shade Theme](https://raw.githubusercontent.com/SH20RAJ/shade-vscode-theme/main/assets/logo.png)
+<!-- ![Shade Theme](https://raw.githubusercontent.com/SH20RAJ/shade-vscode-theme/main/assets/shade-banner.png) -->
 
 ## Introduction
 
