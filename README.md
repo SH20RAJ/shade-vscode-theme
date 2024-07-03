@@ -35,7 +35,10 @@
 
 ## Preview
 
-![Shade Theme Preview](https://user-images.githubusercontent.com/your-image.png)
+![Shade Theme Preview](https://raw.githubusercontent.com/SH20RAJ/shade-vscode-theme/main/assets/Screenshot 2024-07-03 at 7.54.41 PM.png)
+![Shade Theme Preview](https://raw.githubusercontent.com/SH20RAJ/shade-vscode-theme/main/assets/Screenshot 2024-07-03 at 7.54.49 PM.png)
+![Shade Theme Preview](https://raw.githubusercontent.com/SH20RAJ/shade-vscode-theme/main/assets/Screenshot 2024-07-03 at 7.55.02 PM.png)
+![Shade Theme Preview](https://raw.githubusercontent.com/SH20RAJ/shade-vscode-theme/main/assets/Screenshot 2024-07-03 at 7.57.50 PM.png)
 
 ## Feedback
 
