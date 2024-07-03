@@ -1,0 +1,37 @@
+{
+  "name": "shade",
+  "displayName": "JellyFish Theme",
+  "description": "shade: Theme your code editor will love.",
+  "version": "0.0.4",
+  "publisher": "PawelBorkar",
+  "license": "Apache-2.0 License",
+  "author": {
+    "name": "sh20raj"
+  },
+  "engines": {
+    "vscode": "^1.31.0"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "icon": "assets/shade.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "shade",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JellyFish Theme-color-theme.json"
+      }
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/SH20RAJ/shade-vscode-theme/issues",
+    "email": "sh20raj@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SH20RAJ/shade-vscode-theme.git"
+  },
+  "homepage": "https://github.com/SH20RAJ/shade-vscode-theme/blob/star/README.md"
+}
