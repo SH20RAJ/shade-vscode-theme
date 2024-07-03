@@ -35,10 +35,10 @@
 
 ## Preview
 
-![Shade Theme Preview](https://raw.githubusercontent.com/SH20RAJ/shade-vscode-theme/main/assets/Screenshot 2024-07-03 at 7.54.41 PM.png)
-![Shade Theme Preview](https://raw.githubusercontent.com/SH20RAJ/shade-vscode-theme/main/assets/Screenshot 2024-07-03 at 7.54.49 PM.png)
-![Shade Theme Preview](https://raw.githubusercontent.com/SH20RAJ/shade-vscode-theme/main/assets/Screenshot 2024-07-03 at 7.55.02 PM.png)
-![Shade Theme Preview](https://raw.githubusercontent.com/SH20RAJ/shade-vscode-theme/main/assets/Screenshot 2024-07-03 at 7.57.50 PM.png)
+![Shade Theme Preview](https://raw.githubusercontent.com/SH20RAJ/shade-vscode-theme/main/assets/Screenshot%202024-07-03%20at%207.54.41%E2%80%AFPM.png)
+![Shade Theme Preview](https://raw.githubusercontent.com/SH20RAJ/shade-vscode-theme/main/assets/Screenshot%202024-07-03%20at%207.54.49%E2%80%AFPM.png)
+![Shade Theme Preview](https://raw.githubusercontent.com/SH20RAJ/shade-vscode-theme/main/assets/Screenshot%202024-07-03%20at%207.55.02%E2%80%AFPM.png)
+![Shade Theme Preview](https://raw.githubusercontent.com/SH20RAJ/shade-vscode-theme/main/assets/Screenshot%202024-07-03%20at%207.57.50%E2%80%AFPM.png)
 
 ## Feedback
 
