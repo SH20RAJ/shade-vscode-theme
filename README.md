@@ -72,3 +72,6 @@ If you like this theme, please consider giving it a ⭐️ on [GitHub](https://g
 ---
 
 Enjoy using **Shade Theme**! Happy coding!
+
+
+<a href="https://www.producthunt.com/posts/shade-theme-for-vs-code?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-shade&#0045;theme&#0045;for&#0045;vs&#0045;code" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=468219&theme=light" alt="Shade&#0032;Theme&#0032;for&#0032;VS&#0032;Code - Shade&#0032;Theme&#0032;for&#0032;VS&#0032;Code | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
